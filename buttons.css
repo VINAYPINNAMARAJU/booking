@@ -1,0 +1,10 @@
+.btn-default {background-color: #f0ece2; border-color: #f0ece2;}
+.btn-default .btn-label-inverse {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: #000; color: #fff; border-radius: 3px 0 0 3px;}
+.btn-default .btn-label-unsaved {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: #d2232a; color: #fff; border-radius: 3px 0 0 3px;}
+.btn-default .btn-label-saved {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: #f0ece2; color: #fff; border-radius: 3px 0 0 3px;}
+.btn-default .btn-label-action {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: #a1a3a6; color: #fff; border-radius: 3px 0 0 3px;}
+.btn-default .btn-label-default {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: #ddae49; color: #fff; border-radius: 3px 0 0 3px;}
+.btn-default .btn-label-subaction {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: #a38855; color: #fff; border-radius: 3px 0 0 3px;}
+.btn-labeled {padding-top: 0;padding-bottom: 0;}
+.btn { margin-bottom:10px; min-width: 150px; ;}
+.container { font-family: 'Open Sans', sans-serif; }
